@@ -1,0 +1,1 @@
+insert into newDonor (did,dname,fname,dob,mobile,gender,email,blood,city,daddress) values('" + dname + "','" + fname + "','" + dob + "'," + mobile + ",,'" + gender + "','" + email + "','" + blood + "','" + city + "','" + daddress + "')
